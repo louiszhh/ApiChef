@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "titulo": "Macarrão à Carbonara",
+      "ingredientes": [
+        "Macarrão",
+        "Ovos",
+        "Queijo parmesão",
+        "Bacon",
+        "Sal",
+        "Pimenta"
+      ],
+      "modoPreparo": "Cozinhe o macarrão conforme as instruções. Em uma frigideira, frite o bacon até ficar crocante. Bata os ovos e misture com o queijo parmesão. Adicione o bacon ao macarrão cozido e misture com a mistura de ovos e queijo. Tempere com sal e pimenta a gosto."
+    },
+    {
+      "id": 2,
+      "titulo": "Panquecas Americanas",
+      "ingredientes": [
+        "Farinha de trigo",
+        "Leite",
+        "Ovo",
+        "Açúcar",
+        "Fermento em pó",
+        "Sal",
+        "Manteiga"
+      ],
+      "modoPreparo": "Misture a farinha, o açúcar, o fermento e o sal em uma tigela. Em outra tigela, bata o ovo, o leite e a manteiga derretida. Junte os ingredientes secos aos líquidos e misture até formar uma massa homogênea. Aqueça uma frigideira e despeje porções de massa. Cozinhe até que bolhas se formem na superfície, depois vire e cozinhe o outro lado."
+    },
+    {
+      "id": 3,
+      "titulo": "Tacos de Carne",
+      "ingredientes": [
+        "Tortilhas de milho",
+        "Carne moída",
+        "Cebola",
+        "Alho",
+        "Cominho",
+        "Paprika",
+        "Sal",
+        "Pimenta",
+        "Queijo ralado",
+        "Alface",
+        "Tomate"
+      ],
+      "modoPreparo": "Refogue a cebola e o alho em uma frigideira. Adicione a carne moída e cozinhe até dourar. Tempere com cominho, paprika, sal e pimenta. Aqueça as tortilhas e recheie com a carne, queijo, alface e tomate a gosto. Sirva imediatamente."
+    },
+    {
+      "id": 4,
+      "titulo": "Sopa de Abóbora",
+      "ingredientes": [
+        "Abóbora",
+        "Cebola",
+        "Alho",
+        "Caldo de legumes",
+        "Creme de leite",
+        "Sal",
+        "Pimenta",
+        "Azeite"
+      ],
+      "modoPreparo": "Refogue a cebola e o alho em azeite até ficarem macios. Adicione a abóbora cortada em cubos e o caldo de legumes. Cozinhe até a abóbora estar macia. Bata a mistura no liquidificador até obter um creme liso. Retorne à panela, adicione o creme de leite e ajuste o tempero com sal e pimenta. Aqueça antes de servir."
+    }
+  ]
+  
